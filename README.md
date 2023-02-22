@@ -2,7 +2,7 @@
 
 An online edtech company offers English classes for kids. It has free trial classes for potential students. Some of them later purchase a full course.
 
-## Main problem
+## Problem
 We need to determine factors that affect conversion from a trial class into a purchase. 
 
 ## Data
