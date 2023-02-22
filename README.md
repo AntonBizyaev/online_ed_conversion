@@ -28,5 +28,6 @@ Features that showed no statistically significant results received attention too
 Results have been wrapped up in a presentation for management decision making.
 
 ## Links
-**Code**: <a href='https://github.com/AntonBizyaev/online_ed_conversion/blob/main/online_ed_conversion.ipynb'>jupyter notebook</a>  
-**Presentation**: <a href='https://github.com/AntonBizyaev/online_ed_conversion/blob/main/edtech_results.pdf'>main results</a>
+**Code:** <a href='https://github.com/AntonBizyaev/online_ed_conversion/blob/main/online_ed_conversion.ipynb'>jupyter notebook</a>  
+**Presentation:** <a href='https://github.com/AntonBizyaev/online_ed_conversion/blob/main/edtech_results.pdf'>main results</a>  
+**Data:** <a href='https://github.com/AntonBizyaev/online_ed_conversion/blob/main/data.csv'>source</a>  
