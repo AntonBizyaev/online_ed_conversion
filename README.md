@@ -2,6 +2,8 @@
 
 An online edtech company offers English classes for kids. It has free trial classes for potential students. Some of them later purchase a full course.
 
+<a href='https://github.com/AntonBizyaev/online_ed_conversion/blob/main/online_ed_conversion.ipynb'>Solution</a>
+
 ## Main problem
 We need to determine factors that affect conversion from a trial class into a purchase. 
 
