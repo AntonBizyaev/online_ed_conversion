@@ -25,7 +25,7 @@ We need to determine factors that affect conversion from a trial class into a pu
 
 1. Bookings during Sundays are more likely to become a purchase while bookings during Thursdays are less so. Also, booking a trial class between 5 to 6 AM is less likely to achieve conversion. This could be attributed to using UTC timing without proper time zone segregation. Enriching the data with geography could further benefit the analysis.
 
-Features that showed no statistically significant results received attention too.  
+Features that showed no statistically significant results were covered too (see details in the jupyter notebook).  
 Results have been wrapped up in a presentation for management decision making.
 
 ## Links
